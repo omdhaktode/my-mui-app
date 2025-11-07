@@ -1,0 +1,15 @@
+.SearchBox {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+#btn {
+    position: relative;
+    top: 0.5rem;
+    margin-left: 1rem;
+}
+
+#head {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
